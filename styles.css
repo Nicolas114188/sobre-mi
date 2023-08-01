@@ -1,0 +1,11 @@
+body >h1 {
+    color: rgb(59, 87, 212);
+    text-align: center;
+}
+body> div{
+    text-align: center;
+}
+body >h2{
+    color: rgb(109, 122, 148);
+    text-shadow: 3px 5px 8px rgba(1, 1, 1, 0.3);
+}
